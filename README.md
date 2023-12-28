@@ -10,4 +10,4 @@ The project aims to address the following questions related to a university data
 6. Identification of the Top-3 "trial&error" exams, i.e., exams that require the highest number of attempts before passing. For a course of study, the respective trial&error value is given by the average of the number of attempts (failures) for each student for each exam of the course.
 7. Identification of the average grades of students based on their geographical origin and comparison of the average grades between males and females in various degree levels.
 
-The entire project has been developed on DB browser for SQLite and the presentation on Canva.
+The entire project has been developed on DB browser for SQLite and the pdf presentation on Canva.
